@@ -28,6 +28,7 @@ My current research focuses on predicting the **homogenized mechanical propertie
 
 [![HCMUT](https://img.shields.io/badge/HCMUT-Bach%20Khoa%20Ho%20Chi%20Minh-003F8A?style=for-the-badge&logo=googlescholar&logoColor=white)](https://hcmut.edu.vn)
 [![VNU-HCM](https://img.shields.io/badge/VNU--HCM-Vietnam%20National%20University-1A5276?style=for-the-badge&logo=googlescholar&logoColor=white)](https://vnuhcm.edu.vn)
+![Major](https://img.shields.io/badge/Major-Engineering%20Mechanics-00C896?style=for-the-badge&logo=academia&logoColor=white)
 
 ---
 
