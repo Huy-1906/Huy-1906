@@ -1,11 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Software+Developer+%26+Academic+Researcher;FEM+%7C+CNN+%7C+Computational+Mechanics;Building+PASE+%E2%80%94+Personal+AI+Strategy+Engine;Ho+Chi+Minh+City%2C+Vietnam)](https://github.com/Huy-1906)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Software+Developer+%26+Academic+Researcher;FEM+%7C+CNN+%7C+Computational+Mechanics;Building+PASE+-+Personal+AI+Strategy+Engine;Ho+Chi+Minh+City%2C+Vietnam)](https://github.com/Huy-1906)
+
+<br/>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Lý-Gia-Huy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lý-Gia-Huy)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giahuy196cv@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Huy-1906&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=Huy-1906&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -18,6 +23,11 @@ I am a **Software Developer and Academic Researcher** based in Ho Chi Minh City,
 My current research focuses on predicting the **homogenized mechanical properties of 3D-printed composite structures** using a hybrid **CNN + FEM pipeline**, targeting journal-quality validation across three tiers: CNN vs. FEM, uniform vs. property-mapped FEA, and simulation vs. physical experiment.
 
 > I treat engineering problems and personal development through the same lens: quantitative ROI, risk-aware decision-making, and mathematical verification over generalized heuristics.
+
+**Education**
+
+[![HCMUT](https://img.shields.io/badge/HCMUT-Bach%20Khoa%20Ho%20Chi%20Minh-003F8A?style=for-the-badge&logo=googlescholar&logoColor=white)](https://hcmut.edu.vn)
+[![VNU-HCM](https://img.shields.io/badge/VNU--HCM-Vietnam%20National%20University-1A5276?style=for-the-badge&logo=googlescholar&logoColor=white)](https://vnuhcm.edu.vn)
 
 ---
 
@@ -74,6 +84,7 @@ Microservices & API Design          ██████████████�
 
 **AI / Data Science**
 
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
@@ -84,6 +95,13 @@ Microservices & API Design          ██████████████�
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
+**Embedded & Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
 **DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -92,7 +110,6 @@ Microservices & API Design          ██████████████�
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 **Design & Creative**
 
