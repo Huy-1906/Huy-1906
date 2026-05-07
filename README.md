@@ -1,6 +1,8 @@
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=L%C3%BD%20Gia%20Huy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computational%20Mechanics%20%C3%97%20Deep%20Learning%20%C3%97%20Robotics&descSize=18&descAlignY=58)
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Software+Developer+%26+Researcher;Computational+Mechanics+%7C+Deep+Learning;Engineering+Mechanics+Graduate;Ho+Chi+Minh+City%2C+Vietnam)](https://github.com/Huy-1906)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00C896&background=00000000&center=true&vCenter=true&multiline=false&width=820&lines=%3E+Software+Developer+%26+Academic+Researcher;%3E+FEM+%C3%97+CNN+%C3%97+ViT+%C3%97+QCNN+%C3%97+PINN;%3E+Building+physics-informed+models+for+engineering;%3E+Engineering+Mechanics+%C2%B7+Ho+Chi+Minh+City%2C+Vietnam)](https://github.com/Huy-1906)
 
 <br/>
 
