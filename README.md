@@ -14,7 +14,7 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Huy-1906&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Huy-1906&color=00C896&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -105,9 +105,44 @@ I focus on building reliable scientific software: numerical solvers, data pipeli
 
 [![Huy-1906's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Huy-1906&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Huy-1906)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huy-1906&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+</div>
 
-![Snake animation](https://raw.githubusercontent.com/Huy-1906/Huy-1906/output/github-contribution-grid-snake-dark.svg)
+### GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Huy-1906&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400)
+![Streak](https://streak-stats.demolab.com?user=Huy-1906&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huy-1906&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400)
+
+</div>
+
+### Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Huy-1906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+</div>
+
+### Toolchain
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1D1F21?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 </div>
 
@@ -117,6 +152,6 @@ I focus on building reliable scientific software: numerical solvers, data pipeli
 
 *"Engineering is applied mathematics. Architecture is applied discipline."*
 
-[![](https://visitcount.itsvg.in/api?id=Huy-1906&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Huy-1906&color=00C896&style=flat-square&label=Profile+Views)
 
 </div>
