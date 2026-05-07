@@ -54,20 +54,32 @@ I focus on building reliable scientific software: numerical solvers, data pipeli
 
 ---
 
-## Selected Work
+## Key Research Skills
 
-- **Computational AM Simulation Platform** — End-to-end framework for additive manufacturing, linking process parameters to predicted mechanical response. Houses parallel deep-learning subsystems:
-  - **ANN-model** — fully-connected regression on RVE descriptors
-  - **CNN-model** — 2D and 3D convolutional networks, equivariant variants, hybrid CNN+ANN
-  - **ViT-model** — Vision Transformer for RVE image regression
-  - **QCNN-model** — quantum-classical hybrid convolutional network
-- **Neural-Network Benchmark Suite** — Comparative study of CNN / UNet / FNet / ViT for scientific image regression, with reproducible training and architecture diagrams.
-- **PINN + Phase-Field Code** — Physics-informed neural networks coupled with phase-field fracture formulations and IGA discretisation.
-- **Non-linear Solver** — General-purpose non-linear numerical solver, Newton–Raphson core, .NET-based.
-- **6-axis Industrial Robot Arm** — 6-DOF manipulator with Lagrangian dynamics, gravity feedforward, STM32H7 firmware, and ROS2 workspace.
-- **Activity Detection Ensemble** — Bi-LSTM + Transformer ensemble validated under leave-one-subject-out protocol *(see Publications)*.
+**Deep Learning for Mechanics & Materials**
+- ANN regression on engineering descriptors
+- CNN architectures (2D and 3D), equivariant variants, hybrid CNN + ANN designs
+- Vision Transformer (ViT) for scientific image regression
+- Quantum-classical hybrid CNN (QCNN)
+- Bi-LSTM and Transformer ensembles for time-series and detection tasks
+- Comparative architecture benchmarking (CNN / UNet / FNet / ViT) with reproducible training pipelines
 
-> Active research repositories may remain private. Published outcomes are linked under **Publications**.
+**Physics-Informed & Numerical Methods**
+- Physics-Informed Neural Networks (PINN) coupled with phase-field fracture and IGA
+- Finite Element Method, computational homogenization (PBC, KUBC, SUBC)
+- Non-linear solvers — Newton–Raphson, Gauss elimination, custom numerical kernels
+
+**Robotics & Embedded Systems**
+- 6-DOF manipulator dynamics — Lagrangian formulation, gravity feedforward
+- Real-time STM32H7 firmware (FreeRTOS, motion control loops)
+- ROS2 integration for motion planning and AI-assisted control
+
+**Software Engineering**
+- High-performance C / C++ / C# / .NET kernels for scientific computing
+- Clean architecture, SOLID, design patterns for simulation software
+- Reproducible ML pipelines (PyTorch, Optuna, MLflow)
+
+> Active research repositories remain private. Published outcomes are linked under **Publications**.
 
 ---
 
