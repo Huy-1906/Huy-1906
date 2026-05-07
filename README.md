@@ -1,12 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Software+Developer+%26+Academic+Researcher;FEM+%7C+CNN+%7C+Computational+Mechanics;Building+PASE+-+Personal+AI+Strategy+Engine;Ho+Chi+Minh+City%2C+Vietnam)](https://github.com/Huy-1906)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Software+Developer+%26+Researcher;Computational+Mechanics+%7C+Deep+Learning;Engineering+Mechanics+Graduate;Ho+Chi+Minh+City%2C+Vietnam)](https://github.com/Huy-1906)
 
 <br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Lý-Gia-Huy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lý-Gia-Huy)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giahuy196cv@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lygiahuy.huy.7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giahuyly196/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/401616634_Leave-One-Subject-Out_LOSO-Validated_Ensemble_of_Bi-LSTM_and_Transformer_Models_for_Unusual_Activity_Detection)
+[![Personal Email](https://img.shields.io/badge/Personal-D14836?logo=gmail&logoColor=white)](mailto:giahuy196cv@gmail.com)
+[![Academic Email](https://img.shields.io/badge/Academic-003F8A?logo=gmail&logoColor=white)](mailto:huy.lygiahuy2024bk@hcmut.edu.vn)
 
 <br/>
 
@@ -16,13 +18,11 @@
 
 ---
 
-## About Me
+## About
 
-I am a **Software Developer and Academic Researcher** based in Ho Chi Minh City, Vietnam, operating within a university lab environment. My work sits at the intersection of **computational mechanics**, **deep learning**, and **systems engineering** — combining rigorous mathematical modelling with production-grade software architecture.
+Software developer and researcher based in Ho Chi Minh City, Vietnam. Work sits at the intersection of **computational mechanics**, **deep learning**, and **systems engineering** — combining rigorous mathematical modelling with clean software architecture.
 
-My current research focuses on predicting the **homogenized mechanical properties of 3D-printed composite structures** using a hybrid **CNN + FEM pipeline**, targeting journal-quality validation across three tiers: CNN vs. FEM, uniform vs. property-mapped FEA, and simulation vs. physical experiment.
-
-> I treat engineering problems and personal development through the same lens: quantitative ROI, risk-aware decision-making, and mathematical verification over generalized heuristics.
+I focus on building reliable scientific software: numerical solvers, data pipelines, and machine learning models applied to engineering problems.
 
 **Education**
 
@@ -32,7 +32,12 @@ My current research focuses on predicting the **homogenized mechanical propertie
 
 ---
 
-## Research & Engineering Focus
+## Research Interests
+
+- Finite Element Method (FEM) and computational homogenization
+- Deep learning for engineering prediction (CNN, Transformer, Bi-LSTM)
+- High-performance numerical computing (C / C++)
+- Clean architecture and design patterns for simulation software
 
 ```
 Finite Element Method (FEM)         ██████████████████░░  90%
@@ -42,20 +47,28 @@ Deep Learning / PyTorch             ██████████████�
 Microservices & API Design          ███████████████░░░░░  75%
 ```
 
-**Core Research Pipeline — CNN + FEM for 3D Printed Parts**
+---
 
-| Phase | Description |
-|---|---|
-| RVE Generation | 2D/3D Representative Volume Element with stochastic circle/sphere packing |
-| GCode Parsing | Infill pattern extraction and spatial mechanical property mapping |
-| Property Mapping | Ex, Ey, Ez, Poisson's ratio, shear moduli at arbitrary (x, y, z) |
-| FEM Homogenization | Q4 elements, Periodic Boundary Conditions (PBC), Gauss elimination |
-| CNN Training | PyTorch + Optuna hyperparameter tuning · GTX 1650 Ti · FP32 |
-| Validation | Three-tier: CNN↔FEM · uniform↔mapped FEA · simulation↔experiment |
+## Publications
+
+**Leave-One-Subject-Out (LOSO)-Validated Ensemble of Bi-LSTM and Transformer Models for Unusual Activity Detection**
+
+- [ResearchGate](https://www.researchgate.net/publication/401616634_Leave-One-Subject-Out_LOSO-Validated_Ensemble_of_Bi-LSTM_and_Transformer_Models_for_Unusual_Activity_Detection)
+- IOP Publishing — *link pending*
 
 ---
 
-## 💻 Tech Stack
+## Selected Work
+
+- **Composite Mechanical Property Prediction** — Hybrid CNN + FEM pipeline for homogenized property estimation of additively manufactured composite structures.
+- **Numerical Solver Toolkit** — High-performance C / C++ kernels for finite element analysis.
+- **Activity Detection Models** — Ensemble Bi-LSTM and Transformer architectures with subject-independent validation.
+
+> Some repositories are private during active research. Published outcomes are linked in the **Publications** section.
+
+---
+
+## Tech Stack
 
 **Languages**
 
@@ -69,7 +82,6 @@ Microservices & API Design          ██████████████�
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 **Frameworks & Runtime**
 
@@ -96,71 +108,36 @@ Microservices & API Design          ██████████████�
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-**Embedded & Systems**
+**Systems & DevOps**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-**DevOps & Tools**
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Design & Creative**
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 **Architecture Principles**
 
-`SOLID` · `OOP` · `Design Patterns` · `Result Pattern` · `Interface-Driven DI` · `Clean Code` · `Microservices`
+`SOLID` · `OOP` · `Design Patterns` · `Clean Code` · `Interface-Driven DI` · `Microservices`
 
 ---
 
-## Active Projects
+## Ask Me About
 
-### PASE — Personal AI Strategy Engine
-> A Digital Twin system optimizing life-ROI across health, academia, finance, and competitive domains.
-
-- **Core Solver** — C, high-performance numerical backend
-- **AI / Harvester Layer** — Python, data ingestion and inference
-- **Frontend** — React dashboard
-- **MCP Integration** — `fem-server` exposing FEM homogenization results to AI tooling
-- **Local LLM Backend** — Ollama + OpenClaw (Telegram interface)
-
----
-
-### AmPhysicsEngine — GCode Parser Module
-> Parses 3D printer GCode infill patterns and maps spatial mechanical properties for FEM input.
-
-- Supports plastic and ceramic material profiles
-- Managed via Node.js orchestration layer
-- Feeds directly into the CNN+FEM homogenization pipeline
-
----
-
-## Currently Working On
-
-- Finalizing **Q1 journal paper** on CNN-based homogenization property prediction
-- Authoring a **FEM textbook** targeting field authority and intellectual property
-- Mapping **claw-code Rust crate architecture** onto the PASE local AI assistant
-- Designing the **`fem-server` MCP module** for AI-accessible simulation results
+- Finite Element Method homogenization (PBC, KUBC, SUBC, Hill–Mandel theorem)
+- CNN / Transformer / Bi-LSTM model design for engineering and time-series tasks
+- SOLID architecture in C / C++ / C# for simulation software
+- Lagrangian mechanics and ODE solution techniques
 
 ---
 
@@ -183,16 +160,6 @@ Microservices & API Design          ██████████████�
 ![](https://github-profile-trophy.vercel.app/?username=Huy-1906&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
-
----
-
-## Ask Me About
-
-- Finite Element Method (FEM) homogenization — PBC, KUBC, SUBC, Hill-Mandel theorem
-- CNN architecture design for mechanical property prediction (PyTorch, Optuna)
-- SOLID architecture in C/C++ and C# for simulation software
-- Lagrangian mechanics and ODE solution techniques
-- Local LLM deployment and MCP server design with Ollama
 
 ---
 
