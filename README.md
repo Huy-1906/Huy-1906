@@ -32,20 +32,14 @@ I focus on building reliable scientific software: numerical solvers, data pipeli
 
 ---
 
-## Research Interests
+## Focus Areas
 
-- Finite Element Method (FEM) and computational homogenization
-- Deep learning for engineering prediction (CNN, Transformer, Bi-LSTM)
-- High-performance numerical computing (C / C++)
-- Clean architecture and design patterns for simulation software
-
-```
-Finite Element Method (FEM)         ██████████████████░░  90%
-Systems Architecture  (C/C++)       ████████████████████  95%
-Computational Homogenization        ██████████████████░░  88%
-Deep Learning / PyTorch             ████████████████░░░░  80%
-Microservices & API Design          ███████████████░░░░░  75%
-```
+- **Computational Mechanics** — Finite Element Method, homogenization, non-linear solvers
+- **Additive Manufacturing Simulation** — process modelling and material property prediction
+- **Physics-Informed Machine Learning** — PINN, phase-field methods, surrogate modelling
+- **Deep Learning for Engineering** — CNN, Transformer, Bi-LSTM for prediction and detection tasks
+- **Robotics & Control** — 6-axis industrial arm with AI-assisted control
+- **Scientific Software Engineering** — high-performance C / C++ kernels, clean architecture for simulation tools
 
 ---
 
@@ -53,18 +47,21 @@ Microservices & API Design          ██████████████�
 
 **Leave-One-Subject-Out (LOSO)-Validated Ensemble of Bi-LSTM and Transformer Models for Unusual Activity Detection**
 
+- *Journal of Physics: Conference Series*, **3180** 012008 (2025) — IOP Publishing
+- [DOI: 10.1088/1742-6596/3180/1/012008](https://iopscience.iop.org/article/10.1088/1742-6596/3180/1/012008)
 - [ResearchGate](https://www.researchgate.net/publication/401616634_Leave-One-Subject-Out_LOSO-Validated_Ensemble_of_Bi-LSTM_and_Transformer_Models_for_Unusual_Activity_Detection)
-- IOP Publishing — *link pending*
 
 ---
 
 ## Selected Work
 
-- **Composite Mechanical Property Prediction** — Hybrid CNN + FEM pipeline for homogenized property estimation of additively manufactured composite structures.
-- **Numerical Solver Toolkit** — High-performance C / C++ kernels for finite element analysis.
-- **Activity Detection Models** — Ensemble Bi-LSTM and Transformer architectures with subject-independent validation.
+- **Computational AM Simulation Platform** — End-to-end simulation framework for additive manufacturing, linking process parameters to predicted mechanical response.
+- **Non-linear Solver** — General-purpose non-linear numerical solver for engineering systems.
+- **PINN + Phase-Field Code** — Physics-informed neural network experiments coupled with phase-field formulations.
+- **6-axis AI Industrial Robot Arm** — Control and motion planning for a 6-DOF manipulator with AI-assisted decision layer.
+- **Activity Detection Ensemble** — Bi-LSTM + Transformer ensemble validated under leave-one-subject-out protocol *(see Publications)*.
 
-> Some repositories are private during active research. Published outcomes are linked in the **Publications** section.
+> Active research repositories may remain private. Published outcomes are linked under **Publications**.
 
 ---
 
