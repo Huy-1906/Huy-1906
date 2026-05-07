@@ -111,9 +111,9 @@ I focus on building reliable scientific software: numerical solvers, data pipeli
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Huy-1906&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Huy-1906&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400)
 ![Streak](https://streak-stats.demolab.com?user=Huy-1906&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huy-1906&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Huy-1906&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400)
 
 </div>
 
