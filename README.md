@@ -36,9 +36,10 @@ I focus on building reliable scientific software: numerical solvers, data pipeli
 
 - **Computational Mechanics** — Finite Element Method, homogenization, non-linear solvers
 - **Additive Manufacturing Simulation** — process modelling and material property prediction
-- **Physics-Informed Machine Learning** — PINN, phase-field methods, surrogate modelling
-- **Deep Learning for Engineering** — CNN, Transformer, Bi-LSTM for prediction and detection tasks
-- **Robotics & Control** — 6-axis industrial arm with AI-assisted control
+- **Deep Learning for Engineering** — ANN, CNN (2D/3D), Vision Transformer (ViT), QCNN, Bi-LSTM, Transformer ensembles
+- **Architecture Benchmarking** — comparative studies across CNN / UNet / FNet / ViT for scientific image regression
+- **Physics-Informed Machine Learning** — PINN, phase-field fracture, IGA-coupled models
+- **Robotics & Embedded Control** — 6-DOF industrial arm, STM32-based real-time firmware, ROS2
 - **Scientific Software Engineering** — high-performance C / C++ kernels, clean architecture for simulation tools
 
 ---
@@ -55,10 +56,15 @@ I focus on building reliable scientific software: numerical solvers, data pipeli
 
 ## Selected Work
 
-- **Computational AM Simulation Platform** — End-to-end simulation framework for additive manufacturing, linking process parameters to predicted mechanical response.
-- **Non-linear Solver** — General-purpose non-linear numerical solver for engineering systems.
-- **PINN + Phase-Field Code** — Physics-informed neural network experiments coupled with phase-field formulations.
-- **6-axis AI Industrial Robot Arm** — Control and motion planning for a 6-DOF manipulator with AI-assisted decision layer.
+- **Computational AM Simulation Platform** — End-to-end framework for additive manufacturing, linking process parameters to predicted mechanical response. Houses parallel deep-learning subsystems:
+  - **ANN-model** — fully-connected regression on RVE descriptors
+  - **CNN-model** — 2D and 3D convolutional networks, equivariant variants, hybrid CNN+ANN
+  - **ViT-model** — Vision Transformer for RVE image regression
+  - **QCNN-model** — quantum-classical hybrid convolutional network
+- **Neural-Network Benchmark Suite** — Comparative study of CNN / UNet / FNet / ViT for scientific image regression, with reproducible training and architecture diagrams.
+- **PINN + Phase-Field Code** — Physics-informed neural networks coupled with phase-field fracture formulations and IGA discretisation.
+- **Non-linear Solver** — General-purpose non-linear numerical solver, Newton–Raphson core, .NET-based.
+- **6-axis Industrial Robot Arm** — 6-DOF manipulator with Lagrangian dynamics, gravity feedforward, STM32H7 firmware, and ROS2 workspace.
 - **Activity Detection Ensemble** — Bi-LSTM + Transformer ensemble validated under leave-one-subject-out protocol *(see Publications)*.
 
 > Active research repositories may remain private. Published outcomes are linked under **Publications**.
