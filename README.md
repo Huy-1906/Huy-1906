@@ -99,23 +99,15 @@ I focus on building reliable scientific software: numerical solvers, data pipeli
 
 ---
 
-## 📊 GitHub Stats
+## Activity
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Huy-1906&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[![Huy-1906's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Huy-1906&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Huy-1906)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Huy-1906&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huy-1906&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huy-1906&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Huy-1906&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+![Snake animation](https://raw.githubusercontent.com/Huy-1906/Huy-1906/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
